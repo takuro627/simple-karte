@@ -23,3 +23,17 @@ Things you may want to cover:
 
 * ...
 
+## kartesテーブル
+|Column|Type|Options|
+|------|----|-------|
+|patient_id|integer|null:false|
+|year|integer|null:false|
+|month|integer|null:false|
+|day|integer|null:false|
+|breakfast_main|integer|null:false|
+|breakfast_side|integer|null:false|
+|breakfast_main|integer|null:false|
+|lunch_main|integer|null:false|
+|lunch_side|integer|null:false|
+|dinner_main|integer|null:false|
+|dinner_side|integer|null:false|
